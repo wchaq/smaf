@@ -6,7 +6,7 @@ App_Data/
 documents/
 images/
 *.config
-*.csproj.user
+WebAppAsset.csproj.user
 
 # User-specific files
 *.suo
