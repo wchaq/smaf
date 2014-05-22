@@ -5,6 +5,8 @@
 App_Data/
 documents/
 images/
+*.config
+*.csproj.user
 
 # User-specific files
 *.suo
